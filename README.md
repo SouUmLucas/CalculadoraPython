@@ -1,4 +1,4 @@
-# TwoNumebersCalc em Python
+# TwoNumbersCalc em Python
 
 Esse foi efetivamente meu primeiro "projeto" a partir do momento que comecei
 a trabalhar com programação.
